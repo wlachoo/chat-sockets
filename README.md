@@ -29,7 +29,9 @@ loguear:
 
 chat 1 a 1:
 
-![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+![Alt text](assets/chat2.gif)
+
+![Alt text](assets/chat3.gif)
 
 
 

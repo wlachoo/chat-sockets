@@ -25,7 +25,7 @@ http://localhost:3000/
 
 loguear:
 
-![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+![Alt text](assets/chat1.gif)
 
 chat 1 a 1:
 
